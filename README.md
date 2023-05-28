@@ -1,14 +1,14 @@
 # wp_test
 
-#Markdown syntax practice
+# Markdown syntax practice
 
-##LIsts
-####Unordered
--item 1
--item 2
-*item 3
+## LIsts
+#### Unordered
+- item 1
+- item 2
+* item 3
 
-####Ordered
+#### Ordered
 1. item 1
 1. item 2
 2. item 3

@@ -1,2 +1,17 @@
 # wp_test
-Using for web programming final test
+
+#Markdown syntax practice
+
+##LIsts
+####Unordered
+-item 1
+-item 2
+*item 3
+
+####Ordered
+1. item 1
+1. item 2
+2. item 3
+
+>This area is a Blockquotes
+>
